@@ -1,8 +1,6 @@
 # CHUWI-CoreBook-X-2022-8259U-Hackintosh
 EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.6 bootloader  
 
-点击链接加入[Funhouse F10 MPro 黑苹果交流群](https://jq.qq.com/?_wv=1027&k=v9za1jFA)
-
 ### Computer Spec:
 
 | Component        | Specifications                         |
