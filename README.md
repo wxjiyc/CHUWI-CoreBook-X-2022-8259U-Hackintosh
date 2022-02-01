@@ -1,14 +1,14 @@
 # CHUWI-CoreBook-X-2022-8259U-Hackintosh
-EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.6 bootloader  
+EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.7 bootloader  
 
 ### Computer Spec:
 
 | Component        | Specifications                         |
 | ---------------- | ---------------------------------------|
 | CPU              | Intel® Core™ i5-8259U                  |
-| iGPU             | Intel® Iris Plus Graphics 655          |
-| RAM              | 16GB DDR4 2400MHz                      |
-| NVMe             | WD SN520 NVMe 512GB                    |
+| GPU              | Intel® Iris Plus Graphics 655          |
+| Memory           | 16GB DDR4 2400MHz                      |
+| SSD              | WD SN520 NVMe 512GB                    |
 | Monitor          | AUO 14" 2160*1440                      |
 | Audio            | Realtek ALC269                         |
 | WiFi & Bluetooth | Intel Dual Band Wireless-AC 7265       |
@@ -29,9 +29,9 @@ EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.6 bootloader
 - [x] Power Key
 - [x] NVRAM
 
-### What Not Work:
+### What Not Work well:
 
-- [ ] Brightness Keys
+- [ ] Brightness Keys (long press work)
 
 ### BIOS Settings:
 
