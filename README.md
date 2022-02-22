@@ -1,5 +1,5 @@
 # CHUWI-CoreBook-X-2022-8259U-Hackintosh
-EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.7 bootloader  
+EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.8 bootloader  
 
 ### Computer Spec:
 
@@ -13,7 +13,7 @@ EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.7 bootloader
 | Audio            | Realtek ALC269                         |
 | WiFi & Bluetooth | Intel Dual Band Wireless-AC 7265       |
 | SMBIOS           | MacBookPro15,2                         |
-| BootLoader       | OpenCore 0.7.7                         |
+| BootLoader       | OpenCore 0.7.8                         |
 
 ### What Works:
 
@@ -35,7 +35,7 @@ EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.7 bootloader
 
 ### BIOS Settings:
 
-* Flash the mod BIOS
+* Flash the mod BIOS or set DVMT to 64M
 
 ## Credits
 
