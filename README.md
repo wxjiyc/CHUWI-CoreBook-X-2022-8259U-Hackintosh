@@ -1,5 +1,6 @@
 # CHUWI-CoreBook-X-2022-8259U-Hackintosh
 EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.8 bootloader  
+!!! WARNING !!! THIS EFI IS ONLY FOR SN: JCorB......
 
 ### Computer Spec:
 
