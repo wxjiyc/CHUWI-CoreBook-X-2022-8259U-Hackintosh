@@ -38,6 +38,10 @@ EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.8 bootloader
 
 * Flash the mod BIOS or set DVMT to 64M
 
+## sponsor
+If you found my project is helpful, you can offer me a cup of coffee.
+![WeChat Pay](http://code666.tk/static/wx.jpg)![Alipay](http://code666.tk/static/zfb.jpg)
+
 ## Credits
 
 - [Apple](https://apple.com) for macOS.
