@@ -40,7 +40,8 @@ EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.8 bootloader
 
 ## sponsor
 If you found my project is helpful, you can offer me a cup of coffee.
-![WeChat Pay](http://code666.tk/static/wx.jpg =80x90)![Alipay](http://code666.tk/static/zfb.jpg =70x90)
+<img src="http://code666.tk/static/wx.jpg" width = "80" height = "90" alt="WeChat Pay" align=center />
+<img src="http://code666.tk/static/zfb.jpg" width = "74" height = "95" alt="Alipay" align=center />
 
 ## Credits
 
