@@ -7,7 +7,7 @@ EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.8 bootloader
 ### Computer Spec:
 
 | Component        | Specifications                         |
-| ---------------- | ---------------------------------------|
+| ---------------- | -------------------------------------- |
 | CPU              | Intel® Core™ i5-8259U                  |
 | GPU              | Intel® Iris Plus Graphics 655          |
 | Memory           | 16GB DDR4 2400MHz                      |
