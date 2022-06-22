@@ -1,5 +1,5 @@
 # CHUWI-CoreBook-X-2022-8259U-Hackintosh
-EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.8 bootloader  
+EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.9.1 bootloader  
 !!! WARNING !!! THIS EFI IS ONLY FOR SN: JCorB......
 
 点击链接加入[Funhouse F10 MPro & 驰为 CoreBook X 2022款 黑苹果交流群](https://jq.qq.com/?_wv=1027&k=v9za1jFA)
@@ -11,12 +11,12 @@ EFI for CHUWI-CoreBook-X-2022-8259U with OpenCore 0.7.8 bootloader
 | CPU              | Intel® Core™ i5-8259U                  |
 | GPU              | Intel® Iris Plus Graphics 655          |
 | Memory           | 16GB DDR4 2400MHz                      |
-| SSD              | WD SN520 NVMe 512GB                    |
+| SSD              | WD SN730 NVMe 512GB                    |
 | Monitor          | AUO 14" 2160*1440                      |
 | Audio            | Realtek ALC269                         |
 | WiFi & Bluetooth | Intel Dual Band Wireless-AC 7265       |
 | SMBIOS           | MacBookPro15,2                         |
-| BootLoader       | OpenCore 0.7.8                         |
+| BootLoader       | OpenCore 0.8.1                         |
 
 ### What Works:
 
